@@ -11,28 +11,27 @@ window:
   class:
     instance: Alacritty
     general: Alacritty
-  opacity: 1 
 scrolling:
   history: 5000
 
 font:
   normal:
-    family: MesloLGS NF 
+    family: Meslo LGS NF 
     style: Regular
   bold:
-    family: MesloLGS NF
+    family: Meslo LGS NF
     style: Bold
   italic:
-    family: MesloLGS NF 
+    family: Meslo LGS NF 
     style: Italic
-  size: 10.0
+  size: 9 
 offset:
     x: 1
     y: 1
 
 colors:
   primary:
-    background: '#282a36'
+    background: '#32302f'
     foreground: '#f8f8f2'
     bright_foreground: '#ffffff'
   cursor:
